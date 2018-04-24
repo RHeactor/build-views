@@ -27,7 +27,7 @@
     "commander": "^2.9.0",
     "glob": "^7.0.5",
     "html-minifier": "^3.4.3",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.9"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
