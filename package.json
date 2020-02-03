@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "colors": "^1.1.2",
-    "commander": "^2.9.0",
+    "commander": "^4.1.1",
     "glob": "^7.0.5",
     "html-minifier": "^3.4.3",
     "lodash": "^4.17.2"
